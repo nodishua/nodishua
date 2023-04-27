@@ -10,14 +10,6 @@
     />
 </p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-            src="https://github-profile-trophy.vercel.app/?username=nodishua"
-            alt="nodishua"
-    /></a>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/dimasamrullah" target="blank"
